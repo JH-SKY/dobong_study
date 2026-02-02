@@ -27,7 +27,7 @@
 ---
 
 ## 이미지 파일 확인
-![나의 첫 ERD 설계](../images/image_f73430.png)
+![나의 첫 ERD 설계](./images/image_f73430.png)
 =======
 *(참고: images 폴더에 저장된 ERD 이미지 파일)*
 

@@ -29,7 +29,7 @@
 ---
 
 ## 이미지 파일 확인
-![음악 도메인 ERD 1차 수정안](../images/Song_ERD_2차.png)
+![음악 도메인 ERD 1차 수정안](./images/Song_ERD_2차.png)
 *(참고: 상위 폴더의 images 폴더에 저장된 고도화된 ERD 이미지)*
 
 ---
