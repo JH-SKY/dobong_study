@@ -1,5 +1,3 @@
-📚 학습 기록 저장소 (dobong_study)에 맞춰서 정리했습니다.
-
 1. 학습 요약
 Pydantic의 field_validator를 통한 비즈니스 로직 검증과 SQLAlchemy 2.0의 현대적인 ORM 방식을 활용하여, 실제 DB와 연동되는 안정적인 상품 관리 시스템의 기반을 구축함.
 
